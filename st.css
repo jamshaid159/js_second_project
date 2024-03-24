@@ -1,0 +1,19 @@
+.navbar,footer{
+    background-color:rgb(1, 1, 45);
+    
+    }
+    #let,#var,#const{
+    color:#950404;
+    }
+    .reserve{
+        color:rgb(4, 4, 146);
+    }
+    #clearOriginal{
+    
+    }
+    #clearOutput{
+    
+    }
+    #lowerCase,#upperCase,#camelCase{
+    color:blue;
+    }
